@@ -4,6 +4,75 @@
 <dict>
 	<key>OwnerUUID</key>
 	<string>40FC36FC-CC03-4473-90C8-B1FAF2158C60</string>
+	<key>ProjectNameToURL</key>
+	<array>
+		<dict>
+			<key>ProjectName</key>
+			<string>linux-2.6.32.67.bundle</string>
+			<key>URL</key>
+			<string>http://can.not.download.com/linux-2.6.32.67.bundle.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>linux-1.0</string>
+			<key>URL</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>linux</string>
+			<key>URL</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v1.0/linux-1.0.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>APUE-master</string>
+			<key>URL</key>
+			<string>https://github.com/gzg1984/APUE/archive/master.zip</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>dpdk-2.0.0</string>
+			<key>URL</key>
+			<string>https://downloadmirror.intel.com/22777/eng/dpdk-2.0.0.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>linux-4.5</string>
+			<key>URL</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.5.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>glibc-2.23</string>
+			<key>URL</key>
+			<string>http://ftp.gnu.org/gnu/glibc/glibc-2.23.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>linux-4.6.5</string>
+			<key>URL</key>
+			<string>https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.6.5.tar.gz</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>SocketExample-master</string>
+			<key>URL</key>
+			<string>https://github.com/gzg1984/SocketExample/archive/master.zip</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>DataStruct</string>
+			<key>URL</key>
+			<string>http://users.cis.fiu.edu/~weiss/dsaa_c2e/DSAAC2eCode.tar.Z</string>
+		</dict>
+		<dict>
+			<key>ProjectName</key>
+			<string>DataStructAndAlgorithm</string>
+			<key>URL</key>
+			<string>http://users.cis.fiu.edu/~weiss/dsaa_c2e/DSAAC2eCode.tar</string>
+		</dict>
+	</array>
 	<key>comments_file_array</key>
 	<array>
 		<dict>
@@ -1486,7 +1555,7 @@ http://linux.die.net/man/2/mmap</string>
 	<key>project_name</key>
 	<string>linux</string>
 	<key>time</key>
-	<string>2016-10-16 09:31:32</string>
+	<string>2016-10-16 10:26:47</string>
 	<key>version</key>
 	<string>c-p-3</string>
 </dict>
