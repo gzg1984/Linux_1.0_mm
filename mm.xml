@@ -9,6 +9,53 @@
 		<dict>
 			<key>comments_file_content</key>
 			<dict>
+				<key>LineComments</key>
+				<dict>
+					<key>66</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict>
+							<key>5E4B8622-2AF9-4C05-81F0-C4917710F77B</key>
+							<dict>
+								<key>line</key>
+								<string>6</string>
+								<key>offset</key>
+								<string>/</string>
+								<key>project</key>
+								<string>DataStructAndAlgorithm</string>
+								<key>realname</key>
+								<string>list.c</string>
+								<key>tip</key>
+								<string>struct Node</string>
+							</dict>
+						</dict>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>3ED0700D-FBDE-4445-8792-32AEA4313DB9</string>
+							<key>UniqComment</key>
+							<string>This is a very simple list
+no list_head here
+Refer the simple list example code in Data struct project。
+这是最原始的内存链表</string>
+						</dict>
+					</dict>
+				</dict>
+				<key>comments-version</key>
+				<string>LineCommentV2</string>
+			</dict>
+			<key>comments_file_name</key>
+			<string>/mm/kmalloc.c.plist</string>
+		</dict>
+		<dict>
+			<key>comments_file_content</key>
+			<dict>
 				<key>FileComments</key>
 				<string>内存初始化</string>
 				<key>Group</key>
@@ -275,6 +322,70 @@ tmp作为指针指向的是1M起点的16M空间</string>
 每个指针4字节 需要一共4M来储存所有页指针</string>
 						</dict>
 					</dict>
+					<key>1049</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>907F9158-E7DF-4C18-B4DC-445C94302A51</string>
+							<key>UniqComment</key>
+							<string>内存初始化的实际处理函数</string>
+						</dict>
+					</dict>
+					<key>1060</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>FAAF5281-9712-401C-A882-88C79138F2E2</string>
+							<key>UniqComment</key>
+							<string>对齐</string>
+						</dict>
+					</dict>
+					<key>1061</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>C77AD2EB-646B-41BF-9ACF-0F1379719836</string>
+							<key>UniqComment</key>
+							<string>high_memory纪录最高物理地址的虚地址？</string>
+						</dict>
+					</dict>
+					<key>1076</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>85F1B94C-6E36-4818-8B82-D8618A8AF17E</string>
+							<key>UniqComment</key>
+							<string>遍历初始化内存映射数组</string>
+						</dict>
+					</dict>
 					<key>174</key>
 					<dict>
 						<key>InterFileLink</key>
@@ -291,6 +402,115 @@ tmp作为指针指向的是1M起点的16M空间</string>
 							<string>EF8F0960-0370-4849-864E-B08C73F43EDA</string>
 							<key>UniqComment</key>
 							<string>向CR3里面写的是实际的物理地址</string>
+						</dict>
+					</dict>
+					<key>399</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>3C113A34-C874-4843-B35B-F18981288BE4</string>
+							<key>UniqComment</key>
+							<string>进行页对齐</string>
+						</dict>
+					</dict>
+					<key>616</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>26A6E013-D067-4139-8E79-47631F8F2030</string>
+							<key>UniqComment</key>
+							<string>按需要分配实际内存</string>
+						</dict>
+					</dict>
+					<key>626</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>AE6339B3-BC01-4CAB-9ABA-EF95584B16C1</string>
+							<key>UniqComment</key>
+							<string>检查是否在直接映射内存中</string>
+						</dict>
+					</dict>
+					<key>886</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>49B91B01-9224-4EB5-AC60-1B2A98C5ABDD</string>
+							<key>UniqComment</key>
+							<string>页失效的处理函数。
+mmap分配后，实际处理物理内存的分配的，是页面失效处理函数。</string>
+						</dict>
+					</dict>
+					<key>904</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>DD554921-8E5C-4739-8A08-2D5D8AABB844</string>
+							<key>UniqComment</key>
+							<string>按需求分配页</string>
+						</dict>
+					</dict>
+					<key>922</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>655A512D-EED6-4E47-B78F-BF657966D45B</string>
+							<key>UniqComment</key>
+							<string>如果是内核模式缺页，自杀</string>
 						</dict>
 					</dict>
 				</dict>
@@ -311,6 +531,10 @@ tmp作为指针指向的是1M起点的16M空间</string>
 		<dict>
 			<key>comments_file_content</key>
 			<dict>
+				<key>FileComments</key>
+				<string>mmap/munmap
+系统调用的具体实现
+与页缓存，匿名内存，页失效错误等技术点相关</string>
 				<key>LineComments</key>
 				<dict>
 					<key>100</key>
@@ -530,6 +754,115 @@ http://linux.die.net/man/2/mmap</string>
 							<key>UniqComment</key>
 							<string>映射匿名页就无需文件配合。
 下面几行是非匿名页的处理</string>
+						</dict>
+					</dict>
+					<key>246</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>4216D83F-8979-49E7-8FA3-249BE41E0253</string>
+							<key>UniqComment</key>
+							<string>取消映射的实际处理函数</string>
+						</dict>
+					</dict>
+					<key>264</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>000A0DA2-AFF9-490A-A192-6FD2AB0411E6</string>
+							<key>UniqComment</key>
+							<string>遍历链表，找一个传入参数对应的vma结构体</string>
+						</dict>
+					</dict>
+					<key>288</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>38A78DC5-CDC6-40CF-977C-BE22E2FFB0EA</string>
+							<key>UniqComment</key>
+							<string>先干掉vma结构体</string>
+						</dict>
+					</dict>
+					<key>299</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>F6CBF5B7-7E43-4EF3-BF0B-A14ABD0E7A7E</string>
+							<key>UniqComment</key>
+							<string>vma操作函数中的取消映射的函数</string>
+						</dict>
+					</dict>
+					<key>301</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>C7EFCD76-5BE9-4997-A928-CD18BC523FC2</string>
+							<key>UniqComment</key>
+							<string>如果没有注册取消映射的函数
+那么会落入这个固定的取消映射的处理函数</string>
+						</dict>
+					</dict>
+					<key>306</key>
+					<dict>
+						<key>InterFileLink</key>
+						<dict/>
+						<key>InterLink</key>
+						<dict/>
+						<key>OtherProjectLink</key>
+						<dict/>
+						<key>TimeLineComments</key>
+						<array/>
+						<key>UniqComment</key>
+						<dict>
+							<key>UUID</key>
+							<string>A4E574FC-48B8-4487-A877-BDA53BA11BEC</string>
+							<key>UniqComment</key>
+							<string>vma被删除了，本进程的mmu仍然有映射关系存在。此时要去掉mmu从虚拟内存指向物理内存的页表</string>
 						</dict>
 					</dict>
 					<key>311</key>
@@ -1153,7 +1486,7 @@ http://linux.die.net/man/2/mmap</string>
 	<key>project_name</key>
 	<string>linux</string>
 	<key>time</key>
-	<string>2016-08-08 20:09:58</string>
+	<string>2016-10-16 09:31:32</string>
 	<key>version</key>
 	<string>c-p-3</string>
 </dict>
